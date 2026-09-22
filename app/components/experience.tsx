@@ -41,7 +41,7 @@ const roles: Role[] = [
     ],
   },
   {
-    title: "Software Consultant",
+    title: "Software Consultant (sequential contract engagements)",
     company: "JPMorgan Chase, Bank of America, and Mary Kay",
     location: "Dallas, Texas",
     dates: "2003 to 2006",
