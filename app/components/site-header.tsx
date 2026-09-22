@@ -1,14 +1,14 @@
 const navLinks = [
   { href: "#about", label: "About" },
   { href: "#experience", label: "Experience" },
-  { href: "#volunteering", label: "Volunteering" },
   { href: "#education", label: "Education" },
+  { href: "#volunteering", label: "Volunteering" },
   { href: "#contact", label: "Contact" },
 ];
 
 export default function SiteHeader() {
   return (
-    <header className="border-b border-mist bg-porcelain">
+    <header className="bg-alice-blue/50">
       <div className="mx-auto flex max-w-5xl flex-col gap-3 px-6 py-5 sm:flex-row sm:items-center sm:justify-between sm:px-10">
         <a
           href="#top"

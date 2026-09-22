@@ -25,7 +25,7 @@ export default function Contact() {
           </a>
           <a
             href="/uma-chenniappan-resume.pdf"
-            className="border border-graphite px-5 py-2 text-graphite transition-colors hover:bg-graphite hover:text-porcelain"
+            className="rounded-sm border border-graphite bg-mist/40 px-5 py-2 text-graphite transition-colors hover:bg-graphite hover:text-porcelain"
           >
             Resume
           </a>
